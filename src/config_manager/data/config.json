@@ -1,0 +1,12 @@
+{
+    "SCREEN": {
+        "SIZE": {
+            "WIDTH": 100,
+            "HEIGHT": 100
+        }
+    },
+    "GENERAL": {
+        "TITLE": "test title",
+        "FPS": 60
+    }
+}
