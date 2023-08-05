@@ -1,9 +1,8 @@
-from src.application import Application
-
+from src.application import application
 
 def main():
     print("Hi")
-    app = Application()
+    app = application.Application()
 
 
 if __name__ == "__main__":
