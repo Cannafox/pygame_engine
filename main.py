@@ -1,7 +1,7 @@
 from src.application import application
 
 def main():
-    print("Hi")
+    print("Starting...")
     app = application.Application()
 
 
