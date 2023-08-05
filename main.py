@@ -8,8 +8,7 @@ def main():
     print("Starting application...")
     app = application.Application(config)
 
-  #  while app.run():
-  #      print("a")
+    app.run()
 
 
 if __name__ == "__main__":
