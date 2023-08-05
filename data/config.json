@@ -1,3 +1,12 @@
 {
-
+    "APPLICATION": {
+        "SCREEN": {
+            "SIZE": {
+                "WIDTH": 100,
+                "HEIGHT": 100
+            }
+        },
+        "TITLE": "test title",
+        "FPS": 60
+    }
 }
